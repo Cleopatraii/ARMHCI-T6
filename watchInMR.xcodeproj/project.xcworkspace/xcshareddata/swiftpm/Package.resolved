@@ -1,0 +1,15 @@
+{
+  "originHash" : "1943f103f6e8d9877de4e72bb5862cc9d443573b7ce35bd44c8049a76e52ee81",
+  "pins" : [
+    {
+      "identity" : "watchshaker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ezefranca/WatchShaker.git",
+      "state" : {
+        "revision" : "7fa0c9ddf729ee021603f3c2b868f363358f3816",
+        "version" : "1.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
